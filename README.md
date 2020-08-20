@@ -22,11 +22,12 @@ Pictures of all parts are available, for the [ones bought at my local Home Depot
 
 
 ##	2. Assemble parts
+### 2.1 Overview of assembled system
 The assembled system looks like this: 
 ![Overview of the assembled system](https://github.com/jvoix/MySodaSiphon/blob/master/Overview.jpg)
-### 2.1 Assembly steps
+### 2.2 Detailled assembly steps
 * Wash all parts (excluding the regulator and CO2 tank) with hot water and soap and let them dry.
-* Drill a hole through the center of the distal end of the Metal Charger and tap it with a 1/4" NPT thread and mount the female Quick Connect using the double-sided connector (see picture of the [Quick Connect and the 1/4" NTP male connnector mounted on the Metal Charger](https://github.com/jvoix/MySodaSiphon/blob/master/Quick-connect-charger-assembly.jpg)).
+* Drill a hole through the center of the distal end of the Metal Charger and tap it with a 1/4" NPT thread, then mount the female Quick Connect using the double-sided connector (see picture of the [Quick Connect and the 1/4" NTP male connnector mounted on the Metal Charger](https://github.com/jvoix/MySodaSiphon/blob/master/Quick-connect-charger-assembly.jpg)).
 * Remove the existing 1/4" male flare outlet from the Regulator and replace it with the Valve connected to the Lead-in Hose (see picture of the [regulator-valve-hose assembly](https://github.com/jvoix/MySodaSiphon/blob/master/Regulator-valve-tube-assembly.jpg))
 * Mount and tighly screw together all parts using teflon tape (see picture of [all parts properly positionned before assembly](https://github.com/jvoix/MySodaSiphon/blob/master/Overview_assembly.jpg)).
 
