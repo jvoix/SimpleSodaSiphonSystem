@@ -18,7 +18,8 @@ Here is the bill of materials with indicative prices paid in Spring 2020:
 					
 	The total summed up to CAN$337.25, which is not cheap, but will be very quickly recovered, as explained in the ROI analysis.
 ### 1.1 Detailled view of parts
-Pictures of all parts are available in this folder.
+Pictures of all parts are available, for the [ones bought at my local Home Depot](https://github.com/jvoix/MySodaSiphon/blob/master/%E1%B8%A8ome%20Depot.png), [the ones ordered at Ontario Beer Kegs](https://github.com/jvoix/MySodaSiphon/blob/master/Ontario%20Beer%20Kegs.png) and the [ones ordered at Ipeccable Culinary Objects[ (https://github.com/jvoix/MySodaSiphon/blob/master/Impeccable%20Culinary%20Objects.png).
+
 
 ##	2. Assemble parts
 ##	3. Enjoy
