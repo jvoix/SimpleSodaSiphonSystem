@@ -21,7 +21,7 @@ Here is the bill of materials with indicative prices paid in Summer 2020:
 Pictures of all parts are available, for the [ones bought at my local Home Depot](https://github.com/jvoix/MySodaSiphon/blob/master/%E1%B8%A8ome%20Depot.png), the [ones ordered at Ontario Beer Kegs](https://github.com/jvoix/MySodaSiphon/blob/master/Ontario%20Beer%20Kegs.png) and the [ones ordered at Ipeccable Culinary Objects[ (https://github.com/jvoix/MySodaSiphon/blob/master/Impeccable%20Culinary%20Objects.png).
 
 
-##	2. Assemble parts
+##	2. Assemble the parts
 ### 2.1 Overview of assembled system
 The assembled system looks like this: 
 ![Overview of the assembled system](https://github.com/jvoix/MySodaSiphon/blob/master/Overview.jpg)
@@ -29,7 +29,7 @@ The assembled system looks like this:
 * Wash all parts (excluding the regulator and CO2 tank) with hot water and soap and let them dry.
 * Drill a hole through the center of the distal end of the Metal Charger and tap it with a 1/4" NPT thread, then mount the female Quick Connect using the double-sided connector (see picture of the [Quick Connect and the 1/4" NTP male connnector mounted on the Metal Charger](https://github.com/jvoix/MySodaSiphon/blob/master/Quick-connect-charger-assembly.jpg)).
 * Remove the existing 1/4" male flare outlet from the Regulator and replace it with the Valve connected to the Lead-in Hose (see picture of the [regulator-valve-hose assembly](https://github.com/jvoix/MySodaSiphon/blob/master/Regulator-valve-tube-assembly.jpg))
-* Mount and tighly screw together all parts using teflon tape (see picture of [all parts properly positionned before assembly](https://github.com/jvoix/MySodaSiphon/blob/master/Overview_assembly.jpg)). NOTE: *This picture was taken with the original black plastic charger provided with the Soda Siphon; it won't be used (as we will use the Metal Charger) and can be saved for possible use with small 8g CO2 cartriges (for when you are on the road away from your 5 lb CO2 tank).*
+* Mount and tighly screw together all parts using teflon tape (see picture of [all parts properly positionned before assembly](https://github.com/jvoix/MySodaSiphon/blob/master/Overview_assembly.jpg)). NOTE: *This picture was taken with the existing 1/4" male flare outlet from the Regulator (removed in Step #3). This picture was also taken with the original black plastic charger provided with the Soda Siphon; it won't be used (as we will use the Metal Charger as detailed in Step #2) and can be saved for possible use with small 8g CO2 cartriges (for when you are on the road away from your 5 lb CO2 tank).*
 
 
 ##	3. Enjoy
