@@ -2,7 +2,7 @@
 Interested in a cost savy solution for good "sparkling"/"bubbled"/"gazeified" water (a.k.a. "soda" water) at home? Not interested in [encouraging large corporations nor questionnable business practices](https://www.huffingtonpost.ca/entry/pepsico-sodastream-israel_n_5b7c00d7e4b018b93e97aba2?ri18n=true) ? Here is a simple DIY solution using an elegant siphon bottle and a large CO2 tank, following these 3 easy steps:
 
 ## 1. Buy the parts
-All parts can be easily ordered (at least in Canada) or even bought at your local hardware store (here at Home Depot). Here is the bill of materials with indicative prices paid in Spring 2020:
+All parts can be easily ordered online (at least in Canada) or even bought at your local hardware store (here at Home Depot). Here is the bill of materials with indicative prices paid in Spring 2020:
 - **Component	/ Provider	/ Unit Cost	/ Tax	/ Shipping	cost / Total cost (CAN$)**
 - Lead-in Hose	/ www.homedepot.ca	/ $23.47	/ $3.52		/ $26.99
 - Quick connect A /	www.homedepot.ca	/ $6.77	/ $1.02		/ $7.79
