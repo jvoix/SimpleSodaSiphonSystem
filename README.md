@@ -1,4 +1,4 @@
-# MySodaSiphon
+# Simple Soda Siphon System (SSSS)
 Interested in a cost savy solution for good "sparkling"/"bubbled"/"gazeified" water (a.k.a. "soda" water) at home? Not interested in [encouraging large corporations nor questionnable business practices](https://www.huffingtonpost.ca/entry/pepsico-sodastream-israel_n_5b7c00d7e4b018b93e97aba2?ri18n=true) ? Here is a simple DIY solution using an elegant siphon bottle and a large CO2 tank, following these 3 easy steps:
 
 ## 1. Buy the parts
