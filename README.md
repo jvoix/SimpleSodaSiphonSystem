@@ -1,4 +1,4 @@
-# Simple Soda Siphon System (SSSS)
+# My Simple Soda Siphon System (SSSS)
 Interested in a cost savy solution for good "sparkling"/"bubbled"/"gazeified" water (a.k.a. "soda" water) at home? Not interested in [encouraging large corporations nor questionnable business practices](https://www.huffingtonpost.ca/entry/pepsico-sodastream-israel_n_5b7c00d7e4b018b93e97aba2?ri18n=true) ? Here is a simple DIY solution using an elegant siphon bottle and a large CO2 tank, following these 3 easy steps:
 
 ## 1. Buy the parts
@@ -16,7 +16,8 @@ Here is the bill of materials with indicative prices paid in Summer 2020:
 - Soda Siphon	/ www.icotrading.ca	/ $42.99	/ $2.70	/ $0.00	/$45.69
 - Metal Charger	/ www.icotrading.ca	/ $10.99			/$10.99
 					
-	The total summed up to CAN$337.25, which is not cheap, but will be very quickly recovered, as explained in the ROI analysis in section 3.3 below.
+The total summed up to CAN$337.25, which is not cheap, but will be very quickly recovered, as explained in the ROI analysis in section 3.3 below.
+
 ### 1.2 Detailled view of parts
 Pictures of all parts are available, for the [ones bought at my local Home Depot](https://github.com/jvoix/MySodaSiphon/blob/master/%E1%B8%A8ome%20Depot.png), the [ones ordered at Ontario Beer Kegs](https://github.com/jvoix/MySodaSiphon/blob/master/Ontario%20Beer%20Kegs.png) and the [ones ordered at Impeccable Culinary Objects](https://github.com/jvoix/MySodaSiphon/blob/master/Impeccable%20Culinary%20Objects.png).
 
