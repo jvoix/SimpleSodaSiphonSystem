@@ -44,7 +44,7 @@ The 5 lb CO2 tank is typically pressurized around 1000 PSI with the regulated pr
 6. Disconnect the Quick-connect.
 7. Enjoy and repeat.
 ### 3.3 Do the math
-According to my simple calculations (detailled in this [graph](https://github.com/jvoix/MySodaSiphon/blob/master/ROI_SSSS.png) and [spreadsheet](https://github.com/jvoix/MySodaSiphon/blob/master/ROI_SSSS.ods)), the return on investment (ROI) is completed after 280 liters when compared to -cheap- bottled soda water and after 590 liters when compared to a mid-entry commercial solution. With our familly consumption, this is respectively 1 and 2 years, for a device that will last much much longer than that and will minimize garbage or maintenance in the meantime.
+According to my basic calculations (detailed in this [graph](https://github.com/jvoix/MySodaSiphon/blob/master/ROI_SSSS.png) and [spreadsheet](https://github.com/jvoix/MySodaSiphon/blob/master/ROI_SSSS.ods)), the return on investment (ROI) is completed after 280 liters when compared to -cheap- bottled soda water and after 590 liters when compared to a mid-entry commercial solution. With our familly consumption, this correponds to respectively 1 and 2 years, for a device that will last much much longer and will minimize garbage or maintenance in the meantime. More math needed, really?
 *NOTE: A full recharge of the 5 lb cost $25+tx and typically last between 9 and 13 months.*
 
 
