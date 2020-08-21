@@ -39,8 +39,8 @@ The 5 lb CO2 tank is typically pressurized around 1000 PSI with the regulated pr
 ### 3.2 Enjoy your first liter of soda water
 1. Poor 1 l of filtered (idealy) tap water into the Soda Siphon bottle (this ICO bottle comes with a spout tube at the entrance that automatically limits the volume to 1 l by entrapping a residual volume of air).
 2. Place in the fridge for a couple of hours to maximise CO2 absorption.
-3. Connect the quick-connect, then open the Valve, then open the CO2 Tank by turning the knob counter-clockwise (the primary pressure should be around 1000 PIS) and fill with CO2 until the regulator stops its squiling sound (the secondary pressure should be aroung 80 PSI).
-4. Turn off the CO2 Tank by turning the knob clockwise and agigate the Soda Siphon bottle until primary pressure drop to zero (should take less than 30 seconds if water is cold and shake is powerfull).
+3. Connect the quick-connect, then open the Valve, then open the CO2 Tank by turning the knob counter-clockwise (the primary pressure should be around 1000 PIS) and fill with CO2 until the regulator stops its squealing sound (the secondary pressure should be around 80 PSI).
+4. Turn off the CO2 Tank by turning the knob clockwise and shake the Soda Siphon bottle until primary pressure drop to zero (should take less than 30 seconds if water is cold and shake is powerfull).
 5. Close the valve and shake again for another 30 seconds (the secondary pressure should now be down to 60 PSI and won't drop, as the valve is downwards the pressure line): this ensures that all pressure from the Lead-in Hose is gone down the Soda Siphon bottle.
 6. Disconnect the Quick-connect.
 7. Enjoy and repeat.
