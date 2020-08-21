@@ -35,7 +35,7 @@ The assembled system looks like this:
 
 ##	3. Enjoy your soda siphon system!
 ### 3.1 Set the regulated pressure
-The 5 lb CO2 tank is typically pressurized around 1000 PSI with the regulated pressure can be adjusted between 0 to 160 PSI thanks to the Regulator, by turning the adjustement knob. A regulated pressure around 80 PSI should gives great bubbles and is pefectly safe for the Soda Siphon bottle.
+The 5 lb CO2 tank is typically pressurized around 1000 PSI with the regulated pressure can be adjusted between 0 to 160 PSI thanks to the Regulator, by turning the adjustement knob. A regulated pressure around 80 PSI should gives great bubbles and is perfectly safe for the Soda Siphon bottle.
 ### 3.2 Enjoy your first liter of soda water
 1. Poor 1 l of filtered (idealy) tap water into the Soda Siphon bottle (this ICO bottle comes with a spout tube at the entrance that automatically limits the volume to 1 l by entrapping a residual volume of air).
 2. Place in the fridge for a couple of hours to maximise CO2 absorption.
