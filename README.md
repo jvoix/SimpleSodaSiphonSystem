@@ -48,8 +48,7 @@ The 5 lb CO2 tank is typically pressurized around 1000 PSI with the regulated pr
 According to my basic calculations (detailed in this [graph](https://github.com/jvoix/MySodaSiphon/blob/master/ROI_SSSS.png) and [spreadsheet](https://github.com/jvoix/MySodaSiphon/blob/master/ROI_SSSS.ods)), the return on investment (ROI) is completed after 280 liters when compared to -cheap- bottled soda water and after 590 liters when compared to a mid-entry commercial solution. With our familly consumption, this correponds to respectively 1 and 2 years, for a device that will last much much longer and will minimize garbage or maintenance in the meantime. More math needed, really?
 *NOTE: A full recharge of the 5 lb costs me $25+tx at a local microbrewery store and typically last between 9 and 13 months.*
 
-**NOTE2:The rating of the steel soda bottle I bought in Tokyo (Japan) in summer 2018 are the following ones: Internal pressure during use : 1.4 MPa (~200 PSI);
-Safety valve release pressure: 2.0-2.5 MPa (~290-350 PSI); Maximum pressure: 4.0 MPa (~580 PSI)
+**NOTE2:The rating of the [18-8 stainless steel soda bottle](https://github.com/jvoix/SimpleSodaSiphonSystem/blob/master/My%20soda%20siphon%20bottle.pdf) I bought in Tokyo (Japan) in summer 2018 are the following ones: Internal pressure during use : 1.4 MPa (~200 PSI); Safety valve release pressure: 2.0-2.5 MPa (~290-350 PSI); Maximum pressure: 4.0 MPa (~580 PSI)
 
 
 
