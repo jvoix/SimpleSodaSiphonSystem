@@ -35,7 +35,7 @@ The assembled system looks like this:
 
 ##	3. Enjoy your soda siphon system!
 ### 3.1 Set the regulated pressure
-The 5 lb CO2 tank is typically pressurized around 1000 PSI with the regulated pressure can be adjusted between 0 to 160 PSI thanks to the Regulator, by turning the adjustement knob. A regulated pressure around 80 PSI should gives great bubbles and is perfectly safe for the Soda Siphon bottle.
+The 5 lb CO2 tank is typically pressurized around 1000 PSI with the regulated pressure can be adjusted between 0 to 160 PSI thanks to the Regulator, by turning the adjustement knob. A regulated pressure around 80 PSI should gives great bubbles and is perfectly safe** for the Soda Siphon bottle.
 ### 3.2 Enjoy your first liter of soda water
 1. Poor 1 L of filtered (idealy) tap water into the Soda Siphon bottle (this ICO bottle comes with a spout tube at the entrance that automatically limits the volume to 1 L by entrapping a residual volume of air).
 2. Place in the fridge for a couple of hours to maximise CO2 absorption.
@@ -47,6 +47,9 @@ The 5 lb CO2 tank is typically pressurized around 1000 PSI with the regulated pr
 ### 3.3 Do the math
 According to my basic calculations (detailed in this [graph](https://github.com/jvoix/MySodaSiphon/blob/master/ROI_SSSS.png) and [spreadsheet](https://github.com/jvoix/MySodaSiphon/blob/master/ROI_SSSS.ods)), the return on investment (ROI) is completed after 280 liters when compared to -cheap- bottled soda water and after 590 liters when compared to a mid-entry commercial solution. With our familly consumption, this correponds to respectively 1 and 2 years, for a device that will last much much longer and will minimize garbage or maintenance in the meantime. More math needed, really?
 *NOTE: A full recharge of the 5 lb costs me $25+tx at a local microbrewery store and typically last between 9 and 13 months.*
+
+**NOTE2:The rating of the steel soda bottle I bought in Tokyo (Japan) in summer 2018 are the following ones: Internal pressure during use : 1.4 MPa (~200 PSI);
+Safety valve release pressure: 2.0-2.5 MPa (~290-350 PSI); Maximum pressure: 4.0 MPa (~580 PSI)
 
 
 
